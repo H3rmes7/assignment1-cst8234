@@ -7,6 +7,17 @@ Checkout this project on GitHub!
 
     Author(s):
         - John L. Carveth (040937145) <jlcarveth@gmail.com>
+	- Owen Crawford (040959909) <craw0212@algonquinlive.com>
+        
+	Status:
+   		Requirement #1: (Complete)
+        	Requirement #2: (Complete)
+        	Requirement #3: (Complete)
+        	Requirement #4: (Complete)
+        	Requirement #5: (Complete)
+        	Requirement #6: (Complete)
+        	Requirement #7: (Complete)
+        	Requirement #8: (Complete)
 */
 
 #include <stdio.h>
